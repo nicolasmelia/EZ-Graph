@@ -19,7 +19,7 @@ Bar bar6 = new Bar(9,"Oct.");
 // create a new graph with each bar. Pass in the bars individually or as an array of Bars.
 BarGraph graph1 = new BarGraph(bar1, bar2, bar3, bar4, bar5, bar6);
 
-// Create and set your graps properties 
+// Create and set your graphs properties 
 graph1.setChartName("Income by Month");
 graph1.setXAxisName("Months");
 graph1.setYAxisName("Mill");
@@ -29,4 +29,7 @@ graph1.setChartAnalysis("Looks like I will be rich");
 graph1.drawGraph();
 </pre>
 
+<p>
 Open source under the MIT License (MIT)
+</p>
+
