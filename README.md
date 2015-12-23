@@ -5,8 +5,6 @@ How easy is it to create a custom bar graph in a console? With this library,
 creating graphs in the console as easy as pie! No pun intended.
 </p>
 
-
-<code>  
 <pre>
 // Create and set the bar value you would like to use in the graph. 
 // Bar bar = new Bar(VALUE,NAME OF BAR);
@@ -30,8 +28,5 @@ graph1.setChartAnalysis("Looks like I will be rich");
 // Draw the graph in console
 graph1.drawGraph();
 </pre>
-</code>
-
-
 
 Open source under the MIT License (MIT)
