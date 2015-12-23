@@ -5,6 +5,8 @@ How easy is it to create a custom bar graph in a console? With this library,
 creating graphs in the console as easy as pie! No pun intended.
 </p>
 
+![alt tag](https://github.com/nicolasmelia/EZ-Graph/blob/master/About/consoleGraph.jpg)
+
 <pre>
 // Create and set the bar's values. 
 // Bar bar = new Bar(VALUE,NAME OF BAR);
