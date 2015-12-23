@@ -6,7 +6,7 @@ creating graphs in the console as easy as pie! No pun intended.
 </p>
 
 <pre>
-// Create and set the bar value you would like to use in the graph. 
+// Create and set the bar's values. 
 // Bar bar = new Bar(VALUE,NAME OF BAR);
      
 Bar bar1 = new Bar(4,"May");
